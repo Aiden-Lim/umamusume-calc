@@ -1,2 +1,3 @@
 # umamusume-calc
-ウマ娘の相性◎の計算機
+
+[https://twitter.com/Lig_Rig/status/1367511254894407681](https://twitter.com/Lig_Rig/status/1367511254894407681)
